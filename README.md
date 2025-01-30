@@ -1,1 +1,6 @@
-# Gold-Price-Prediction
+The "Gold Price Prediction" data represents the financial market od gold price. The data contsins historical daily prices of key financial instruments such as SPX (S&P 500 index), Gold (GLD), Crude Oil (USO), Silver (SLV), and the EUR/USD exchange rate.
+
+Gold prices are influenced by various factors, including stock market performance, crude oil prices, and currency exchange rates. By analyzing this dataset, we can explore the relationships between these financial instruments and develop predictive models to forecast gold prices. This data is particularly valuable for investors, analysts, and researchers interested in understanding market trends and making data-driven investment decisions.
+
+The project involves exploring the initial insights of the data set using statistical functions, seaborn-based graphs. Followed by exploratory data analysis, feature engineering, building the ensemble and regression machine learning algorithms such as Linear Regression, Lasso and Ridge Regression, Decision Tree, Random Forest Regressor, XG Boost Regressor, and Gradient Descent Regressor. Finally, hyper parameter tuning is performed such as Cross-Validation to enhance the accuracy of the machine learning models.
+
